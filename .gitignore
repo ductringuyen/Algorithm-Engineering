@@ -1,0 +1,11 @@
+__debug*
+vertexcover
+vertexcover.test
+vc/.user_out.txt
+*.zip
+*.svg
+*.log
+*.prof
+.DS_Store
+vc/.DS_Store
+launch.json

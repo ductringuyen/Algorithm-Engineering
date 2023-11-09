@@ -1,0 +1,398 @@
+==> ./vc/in/vc1aa.in <==
+2 0
+
+==> ./vc/in/vc1ac.in <==
+4 0
+
+==> ./vc/in/vc1ae.in <==
+7 1
+
+==> ./vc/in/vc1ag.in <==
+9 1
+
+==> ./vc/in/vc1ai.in <==
+12 2
+
+==> ./vc/in/vc1ak.in <==
+14 2
+
+==> ./vc/in/vc1am.in <==
+16 2
+
+==> ./vc/in/vc1ao.in <==
+19 3
+
+==> ./vc/in/vc1aq.in <==
+21 3
+
+==> ./vc/in/vc1as.in <==
+24 4
+
+==> ./vc/in/vc1au.in <==
+26 4
+
+==> ./vc/in/vc1aw.in <==
+28 4
+
+==> ./vc/in/vc1ay.in <==
+31 6
+
+==> ./vc/in/vc1ba.in <==
+33 8
+
+==> ./vc/in/vc1bc.in <==
+36 8
+
+==> ./vc/in/vc1be.in <==
+42 7
+
+==> ./vc/in/vc1bg.in <==
+48 19
+
+==> ./vc/in/vc1bi.in <==
+54 9
+
+==> ./vc/in/vc1bk.in <==
+60 13
+
+==> ./vc/in/vc1bm.in <==
+66 14
+
+==> ./vc/in/vc1bo.in <==
+72 13
+
+==> ./vc/in/vc1bq.in <==
+78 20
+
+==> ./vc/in/vc1bs.in <==
+84 21
+
+==> ./vc/in/vc1bu.in <==
+90 33
+
+==> ./vc/in/vc1bw.in <==
+96 24
+
+==> ./vc/in/vc1by.in <==
+102 36
+
+==> ./vc/in/vc1ca.in <==
+108 38
+
+==> ./vc/in/vc1cc.in <==
+114 46
+
+==> ./vc/in/vc1ce.in <==
+120 51
+
+==> ./vc/in/vc1cg.in <==
+240 166
+
+==> ./vc/in/vc1ci.in <==
+360 387
+
+==> ./vc/in/vc1ck.in <==
+480 552
+
+==> ./vc/in/vc1cm.in <==
+600 1271
+
+==> ./vc/in/vc1co.in <==
+720 1694
+
+==> ./vc/in/vc1cq.in <==
+840 2395
+
+==> ./vc/in/vc1cs.in <==
+960 3292
+
+==> ./vc/in/vc1cu.in <==
+1080 3671
+
+==> ./vc/in/vc1cw.in <==
+1200 4388
+
+==> ./vc/in/vc2aa.in <==
+34 78
+
+==> ./vc/in/vc2ac.in <==
+39 170
+
+==> ./vc/in/vc2ae.in <==
+105 441
+
+==> ./vc/in/vc2ag.in <==
+453 2025
+
+==> ./vc/in/vc2ai.in <==
+1589 2742
+
+==> ./vc/in/vc2ak.in <==
+2395 7462
+
+==> ./vc/in/vc2am.in <==
+4824 6837
+
+==> ./vc/in/vc2ao.in <==
+6474 12572
+
+==> ./vc/in/vc2aq.in <==
+4720 13722
+
+==> ./vc/in/vc2as.in <==
+2851 15093
+
+==> ./vc/in/vc2au.in <==
+6301 20777
+
+==> ./vc/in/vc2aw.in <==
+9877 25973
+
+==> ./vc/in/vc2ay.in <==
+9800 28989
+
+==> ./vc/in/vc2ba.in <==
+8717 31525
+
+==> ./vc/in/vc2bc.in <==
+11143 32818
+
+==> ./vc/in/vc2be.in <==
+22963 48436
+
+==> ./vc/in/vc2bg.in <==
+15606 45878
+
+==> ./vc/in/vc2bi.in <==
+16840 48232
+
+==> ./vc/in/vc2bk.in <==
+16386 49152
+
+==> ./vc/in/vc2bm.in <==
+10937 75488
+
+==> ./vc/in/vc2bo.in <==
+23133 93439
+
+==> ./vc/in/vc2bq.in <==
+12008 118489
+
+==> ./vc/in/vc2bs.in <==
+62032 121544
+
+==> ./vc/in/vc2bu.in <==
+12328 165250
+
+==> ./vc/in/vc2bw.in <==
+45087 163734
+
+==> ./vc/in/vc2by.in <==
+18772 198050
+
+==> ./vc/in/vc2ca.in <==
+74752 261120
+
+==> ./vc/in/vc2cc.in <==
+77351 327429
+
+==> ./vc/in/vc2ce.in <==
+82141 348590
+
+==> ./vc/in/vc2cg.in <==
+62631 366559
+
+==> ./vc/in/vc2ci.in <==
+131829 501498
+
+==> ./vc/in/vc2ck.in <==
+78136 452591
+
+==> ./vc/in/vc2cm.in <==
+100000 499998
+
+==> ./vc/in/vc2co.in <==
+35588 572914
+
+==> ./vc/in/vc2cq.in <==
+99617 662431
+
+==> ./vc/in/vc2cs.in <==
+227320 814134
+
+==> ./vc/in/vc2cu.in <==
+44609 985046
+
+==> ./vc/in/vc2cw.in <==
+262111 899792
+
+==> ./vc/in/vc2cy.in <==
+299067 977676
+
+==> ./vc/in/vc2da.in <==
+144649 1074393
+
+==> ./vc/in/vc2dc.in <==
+325729 1090108
+
+==> ./vc/in/vc2de.in <==
+81306 1342296
+
+==> ./vc/in/vc2dg.in <==
+214765 1679018
+
+==> ./vc/in/vc2di.in <==
+1379917 1921660
+
+==> ./vc/in/vc2dk.in <==
+448695 3314611
+
+==> ./vc/in/vc3aa.in <==
+6160 40207
+
+==> ./vc/in/vc3ac.in <==
+200 798
+
+==> ./vc/in/vc3ae.in <==
+38452 174645
+
+==> ./vc/in/vc3ag.in <==
+45307 36697
+
+==> ./vc/in/vc3ai.in <==
+23541 34233
+
+==> ./vc/in/vc3ak.in <==
+24765 19655
+
+==> ./vc/in/vc3am.in <==
+23194 18295
+
+==> ./vc/in/vc3ao.in <==
+13431 16234
+
+==> ./vc/in/vc3aq.in <==
+4410 6885
+
+==> ./vc/in/vc3as.in <==
+198 808
+
+==> ./vc/in/vc3au.in <==
+200 1023
+
+==> ./vc/in/vc3aw.in <==
+200 1020
+
+==> ./vc/in/vc3ay.in <==
+200 933
+
+==> ./vc/in/vc3ba.in <==
+200 1026
+
+==> ./vc/in/vc3bc.in <==
+200 1160
+
+==> ./vc/in/vc3be.in <==
+200 931
+
+==> ./vc/in/vc3bg.in <==
+200 1011
+
+==> ./vc/in/vc3bi.in <==
+200 1083
+
+==> ./vc/in/vc3bk.in <==
+200 1078
+
+==> ./vc/in/vc3bm.in <==
+200 961
+
+==> ./vc/in/vc3bo.in <==
+199 1091
+
+==> ./vc/in/vc3bq.in <==
+11470 17408
+
+==> ./vc/in/vc3bs.in <==
+57316 77978
+
+==> ./vc/in/vc3bu.in <==
+200 1162
+
+==> ./vc/in/vc3bw.in <==
+18096 28281
+
+==> ./vc/in/vc3by.in <==
+26300 41500
+
+==> ./vc/in/vc3ca.in <==
+26300 41500
+
+==> ./vc/in/vc3cc.in <==
+66992 90970
+
+==> ./vc/in/vc3ce.in <==
+26300 41500
+
+==> ./vc/in/vc3cg.in <==
+18096 28281
+
+==> ./vc/in/vc3ci.in <==
+18096 28281
+
+==> ./vc/in/vc3ck.in <==
+26300 41500
+
+==> ./vc/in/vc3cm.in <==
+15783 24663
+
+==> ./vc/in/vc3co.in <==
+15783 24663
+
+==> ./vc/in/vc3cq.in <==
+26300 41500
+
+==> ./vc/in/vc3cs.in <==
+18096 28281
+
+==> ./vc/in/vc3cu.in <==
+18096 28281
+
+==> ./vc/in/vc3cw.in <==
+26300 41500
+
+==> ./vc/in/vc3cy.in <==
+29076 45570
+
+==> ./vc/in/vc3da.in <==
+2980 5360
+
+==> ./vc/in/vc3dc.in <==
+138141 227241
+
+==> ./vc/in/vc3de.in <==
+18096 28281
+
+==> ./vc/in/vc3dg.in <==
+4768 8576
+
+==> ./vc/in/vc3di.in <==
+56860 77264
+
+==> ./vc/in/vc3dk.in <==
+5066 9112
+
+==> ./vc/in/vc3dm.in <==
+18096 28281
+
+==> ./vc/in/vc3do.in <==
+3523 6446
+
+==> ./vc/in/vc3dq.in <==
+7400 13600
+
+==> ./vc/in/vc3ds.in <==
+7030 12920
+
+==> ./vc/in/vc3du.in <==
+1534 127011

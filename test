@@ -1,0 +1,5 @@
+#/bin/bash 
+
+go build
+cd ./vc 
+python3 checker.py  --time_limit 300 --max_time_limit_exceeded 5 ../vertexcover  2>/dev/null | sed 's/\\n/\n/g'
